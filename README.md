@@ -1,3 +1,5 @@
+Educational repository
+
 ```bash
 run yarn init
 ```
