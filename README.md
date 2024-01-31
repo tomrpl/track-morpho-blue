@@ -1,11 +1,11 @@
 Educational repository
 
 ```bash
-run yarn init
+yarn init
 ```
 
 ```bash
-run yarn install
+yarn install
 ```
 
 ```bash
