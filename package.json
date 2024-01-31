@@ -1,0 +1,15 @@
+{
+  "name": "track-morpho-blue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "add": "^2.0.6",
+    "dotenv": "^16.4.1",
+    "ethers": "^6.10.0",
+    "ethers-multicall-provider": "^6.0.3",
+    "ethers-types": "^3.3.2",
+    "evm-maths": "Rubilmax/evm-maths",
+    "yarn": "^1.22.21"
+  }
+}
