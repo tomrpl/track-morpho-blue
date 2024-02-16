@@ -1,4 +1,4 @@
-Educational repository
+Educational repository:
 
 ```bash
 yarn init
